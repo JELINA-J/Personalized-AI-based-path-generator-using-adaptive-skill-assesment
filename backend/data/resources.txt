@@ -1,0 +1,13 @@
+Java Basics: variables, loops, OOP
+Spring Boot fundamentals
+REST APIs with Java
+Data Structures in Java
+Java Interview preparation
+
+HTML
+
+CSS
+
+JavaScript Basics
+
+DOM Manipulation

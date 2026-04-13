@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-chroma
+sentence-transformers
+chromadb
+pydantic
+ollama
+apify-client
